@@ -1,0 +1,13 @@
+/* CSS Styles */
+#dream{
+  position: relative;
+      top: -60px;
+      left: 0px;
+}
+
+#holo{
+  position: absolute;
+     top: 60px;
+     left: 80px;
+     z-index:-1
+}
